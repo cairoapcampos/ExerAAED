@@ -1,4 +1,4 @@
-Repositório com os códigos desenvolvidos para Listas de Exercícios da disciplina de **Análise de Algoritmos e Estrutura de Dados**.
+Repositório com os códigos desenvolvidos para as listas de exercícios da disciplina de **Análise de Algoritmos e Estrutura de Dados**.
 
 Os programas foram implementados em **C++** e testados utilizando o VS Code e o compilador **g++ 15.2.0**.
 
